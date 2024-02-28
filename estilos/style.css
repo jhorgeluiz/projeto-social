@@ -22,7 +22,7 @@ body {
 main {
     position: relative;
     height: 96vh;
-    
+    min-width: 435px;
 }
 
 section#telefone {
@@ -47,11 +47,12 @@ iframe#tela {
 section#redes-sociais {
     text-align: right;
     position: relative;
-    top:  -630px;
+    top:  -500px;
+    
 }
 
 section#redes-sociais img {
-    width: 50px;
+    width: 30px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px black;
