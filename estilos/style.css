@@ -20,9 +20,10 @@ body {
 }
 
 main {
+    margin: auto;
     position: relative;
     height: 100vh;
-    width: 100vw;
+    width: 410px;
 }
 
 section#telefone {
